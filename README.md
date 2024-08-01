@@ -13,7 +13,26 @@ Briefly describe your interior design project or portfolio. Highlight your desig
 ## Gallery
 Include images or a gallery showcasing your interior design projects. Use descriptive captions to explain each project or design concept.
 
-![Living Room](images/living_room.jpg)
+![Background image](![cover](https://github.com/user-attachments/assets/bbec89cf-04c1-42d8-946f-88429ff2c00c)
+)
+![Background image](![bg (1)](https://github.com/user-attachments/assets/d9db0216-0875-4544-90c7-fbd840b99aa7)
+
+)
+![Background image](![bg3](https://github.com/user-attachments/assets/408cc827-0ed8-4f07-bca6-6c00b3cdbf42)
+
+)
+![Background image](![t2](https://github.com/user-attachments/assets/ab9ff9a3-4ef6-45a6-8a89-b6e4aa830acd)
+
+)
+![Background image](![t1](https://github.com/user-attachments/assets/9594fd98-c5a9-4adb-86b4-1da5886aab04)
+
+)
+![Background image](![t3](https://github.com/user-attachments/assets/887833df-31f9-46ae-a88d-66f3499a955e)
+
+
+)
+
+
 *Description: Modern living room design with minimalist furniture and natural lighting.*
 
 ![Office Space](images/office_space.jpg)
